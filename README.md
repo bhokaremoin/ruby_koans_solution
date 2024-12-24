@@ -1,5 +1,5 @@
 = Solved ->
-{<img src="img.png" alt="passed_check_output">}
+<img src="img.png" alt="passed_check_output">
 
 
 = Ruby Koans
