@@ -11,11 +11,12 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="PROVIDED" name="bundler (v2.5.16, RVM: ruby-3.3.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="bundler (v2.6.2, RVM: ruby-3.3.5) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="language_server-protocol (v3.17.0.3, RVM: ruby-3.3.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="logger (v1.6.4, RVM: ruby-3.3.5) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="prism (v1.3.0, RVM: ruby-3.3.5) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rake (v13.1.0, RVM: ruby-3.3.5) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rbs (v3.4.0, RVM: ruby-3.3.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rbs (v3.8.0, RVM: ruby-3.3.5) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="ruby-lsp (v0.22.1, RVM: ruby-3.3.5) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sorbet-runtime (v0.5.11708, RVM: ruby-3.3.5) [gem]" level="application" />
   </component>
